@@ -1,3 +1,7 @@
 name: Scoreboard
 main: io.github.markieo.ScoreBoardPlugin.Main
 version: 1.0
+commands:
+   tp:
+      description: teleporting
+      usage: /tp player player
